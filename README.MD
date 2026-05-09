@@ -31,7 +31,7 @@ Before you begin, ensure you have the following:
 
 ---
 
-## Project Directory   Structure
+## Project Directory Structure
 
 Understanding the project's directory structure is crucial for navigating and managing the codebase effectively. Below is a comprehensive overview of the project's layout, along with descriptions for each file and directory.
 
